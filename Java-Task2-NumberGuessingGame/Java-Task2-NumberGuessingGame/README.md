@@ -29,7 +29,7 @@ A console-based Java game where the player tries to guess a randomly generated n
 4. Select a difficulty and enter your guesses.
 
 ## Demo Video
-To be added.
+https://lnkd.in/p/gcWvkyDZ
 
 ## Screenshots
 To be added.
