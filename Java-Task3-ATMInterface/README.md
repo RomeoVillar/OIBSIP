@@ -113,7 +113,9 @@ java -cp out Main
 - Account balances and transaction history reset when the application restarts.
 - Transaction history is maintained for the current program session.
 - This application is an educational simulation and is not connected to a real banking system.
-
+  
+### DEMO Video
+https://lnkd.in/p/gbXc24AW
 ### Screenshots
 
 Screenshots of the running application should be added to the "screenshots/" folder to demonstrate the implemented features, including successful login, banking transactions, transaction history, and access denial after three incorrect login attempts.
